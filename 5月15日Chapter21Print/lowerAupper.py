@@ -1,0 +1,7 @@
+# -*- coding: cp936 -*-
+string1 = "Hello"
+string2 = string1.lower() #ะกะด
+print string2
+
+string3 = string1.upper() #ด๓ะด
+print string3

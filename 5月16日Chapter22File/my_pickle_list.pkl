@@ -1,0 +1,8 @@
+(lp0
+S'Victor'
+p1
+aI20
+aS'Hello there'
+p2
+aF8.19876e-12
+a.

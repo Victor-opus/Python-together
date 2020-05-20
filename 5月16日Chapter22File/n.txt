@@ -1,0 +1,7 @@
+monkey
+elephant
+cyclist
+teacher
+author
+hockey
+player

@@ -1,0 +1,10 @@
+(lp0
+S'Victor'
+p1
+aS'20'
+p2
+aS'red'
+p3
+aS'egg'
+p4
+a.
